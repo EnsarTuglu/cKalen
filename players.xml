@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="000261322f5f4632aba930a63cb71e04" nativeplatform="Steam" nativeuserid="76561198246643176" playername="cKALEN" lastlogin="2024-07-30 19:22:40" position="-196,60,1029">
+    <acl platform="EOS" userid="00022184e89044209a4898109fc9d0f7" />
+    <bedroll pos="-946,79,502" />
+  </player>
+  <player platform="EOS" userid="0002b176c5f14982b8e1051ab70939d5" nativeplatform="Steam" nativeuserid="76561199189668160" playername="emokrnflk" lastlogin="2024-07-30 19:22:40" position="-184,60,1027">
+    <acl platform="EOS" userid="00022184e89044209a4898109fc9d0f7" />
+  </player>
+  <player platform="EOS" userid="00022184e89044209a4898109fc9d0f7" nativeplatform="Steam" nativeuserid="76561198874088064" playername="metrogomez" lastlogin="2024-07-30 19:10:45" position="-191,62,1022">
+    <acl platform="EOS" userid="000261322f5f4632aba930a63cb71e04" />
+    <acl platform="EOS" userid="0002b176c5f14982b8e1051ab70939d5" />
+  </player>
+</persistentplayerdata>
